@@ -1,1 +1,2 @@
 zmena
+pokus o zlepseni
